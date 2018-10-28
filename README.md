@@ -1,6 +1,8 @@
 # hello-world
-First Repository
-sal
-saal
-saaal
-Thanos was right
+def hello world():
+  print "hello world"
+
+hello world()
+
+#This programme prints hello world
+#this programme is written in Python
