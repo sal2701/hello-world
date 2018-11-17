@@ -2,11 +2,13 @@
 def hello world():
   print "hello world"
 
-hello world()
+hello world(fu)
 
 #This programme prints hello world
 #this programme is written in Python
 verified by superhakar
 
-Thanos was right!!
+Thanos was not  right!!
+Sai akash phuket,lives in phuket,eats in phuket,sleeps in phuket.
+
 
