@@ -8,3 +8,5 @@ hello world()
 #this programme is written in Python
 verified by superhakar
 
+Thanos was right!!
+
